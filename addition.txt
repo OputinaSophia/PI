@@ -1,0 +1,5 @@
+git clone https://github.com/OputinaSophia/PI.git
+git add main.c askname.c askname.h
+git commit -m "add files"
+git push
+
